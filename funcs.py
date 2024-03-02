@@ -2,4 +2,4 @@ def addition_funcs():
     a = input()
     b = input()
     c = a + b
-    print(f"Open {c}")
+    print(f"Ope123 {c}")
